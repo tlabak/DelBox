@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "663018905321",
+    "firebase_url": "https://porchbox-5a575-default-rtdb.firebaseio.com",
+    "project_id": "porchbox-5a575",
+    "storage_bucket": "porchbox-5a575.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:663018905321:android:25d554692f150ce1351a78",
+        "android_client_info": {
+          "package_name": "com.example.securedeliverypackage"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "663018905321-g6s408nlgt0or9doe1l8ml3u78p2l9h0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBFWPir_SC7CKbC8pbA_7jT8-S00K4wgxY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "663018905321-g6s408nlgt0or9doe1l8ml3u78p2l9h0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
